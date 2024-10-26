@@ -1,16 +1,21 @@
-## Hi there 👋
+> Ring ring, it's 7 AM
 
-<!--
-**Wild-Donkey/Wild-Donkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Move yourself to go again
 
-Here are some ideas to get you started:
+> Cold water in the face
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Brings you back to this awful place
+
+Going through boring and useless classes and homework to learn.
+
+>  Every class is so full of shit.
+
+Competitive Programmer.
+
+Running the Naloong Problem Group.
+
+![](https://avatars.githubusercontent.com/u/186185734?s=200&v=4)
+
+## AI is Cthulhu that humans summoned with GPUs, and I don't like it.
+
+I don't want to learn or work on AI, but I have to admit that AI did help me with my learning.
